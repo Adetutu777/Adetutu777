@@ -1,6 +1,6 @@
 ### Hi there, I am Adetutu 👋
 
-<img src="https://spark.adobe.com/post/9EonR09c0cQj9/" alt="">
+<img src="https://spark.adobe.com/post/9EonR09c0cQj9/" alt="home-image">
 
 I am a meticulous web developer with BSc. degree in computer science with front end experience and passion for responsive website design. I am a firm believer in the mobile-first approach
 
