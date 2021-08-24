@@ -2,6 +2,8 @@
 
 <img src="https://spark.adobe.com/post/9EonR09c0cQj9/" alt="home-image">
 
+![home-img]("https://spark.adobe.com/post/9EonR09c0cQj9/")
+
 I am a meticulous web developer with BSc. degree in computer science with front end experience and passion for responsive website design. I am a firm believer in the mobile-first approach
 
 I enjoy learning new things and using them to create new ideas. When am not coding you can find me listening to music, reading, Hanging out with friends or exploring nature
