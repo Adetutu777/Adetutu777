@@ -1,4 +1,4 @@
-### Hi there, I am Adetutu 👋
+# Hi there, I am Adetutu 👋
 
 <img src="https://spark.adobe.com/post/9EonR09c0cQj9/" alt="home-image">
 
