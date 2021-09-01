@@ -15,8 +15,8 @@ I enjoy learning new things and using them to create new ideas. When am not codi
 - 🌱 I’m currently working with Vue.js 
 
 ## Find me around the web: 
-- [Twitter](https://mobile.twitter.com/adetutu2222)
 - [Linkedin](https://www.linkedin.com/in/adetutu-gbangbola-05a48070/)
+- [Twitter](https://mobile.twitter.com/adetutu2222)
 - [Dev.to](https://dev.to/dashboard)
 
 
