@@ -19,17 +19,10 @@ I enjoy learning new things and using them to create new ideas. When am not codi
 - [Twitter](https://mobile.twitter.com/adetutu2222)
 - [Dev.to](https://dev.to/dashboard)
 <!-- 
-![](https://img.shields.io/badge/Javascript-informational?style=flat&logo=<javascript>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Vuejs-informational?style=flat&logo=<javascript>&logoColor=white&color=green)
-![](https://img.shields.io/badge/GIT-informational?style=flat&logo=<javascript>&logoColor=white&color=yellow)
-![](https://img.shields.io/badge/Github-informational?style=flat&logo=<javascript>&logoColor=white&color=gray)
-![](https://img.shields.io/static/v1?label=<code>&message=<javascript>&color=<yellow>) -->
-
-<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Adetutu777&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> -->
 
 
 
-<!--
+
 **Adetutu777/Adetutu777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -43,3 +36,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
