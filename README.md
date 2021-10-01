@@ -5,7 +5,7 @@ I am a meticulous web developer with BSc. degree in computer science with front 
 
 I enjoy learning new things and using them to create new ideas. When am not coding you can find me listening to music, reading, Hanging out with friends or exploring nature
 
-- 🌱 I’m currently working with Vue.js 
+- 🌱 I’m currently working with Vue.js & Nuxtjs
 
 <!-- 
 
