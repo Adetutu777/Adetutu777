@@ -1,7 +1,7 @@
 
 # Hi there, I am Adetutu 👋
 
-I am a meticulous web developer with BSc. degree in computer science with skills in web development & technical writing. I am a firm believer in the mobile-first approach
+I am a meticulous web developer with BSc. degree in computer science and skills in frontend development & technical writing. I am a firm believer in the mobile-first approach
 
 I enjoy learning new things and using them to create new ideas. When am not coding you can find me listening to music, reading, Hanging out with friends or exploring nature
 
