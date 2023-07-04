@@ -1,11 +1,15 @@
 
-# Hi there, I am Adetutu 👋
+# Hello, I am Adetutu 👋
 
-I am a meticulous web developer with BSc. degree in computer science and skills in frontend development, product management & technical writing. I am a firm believer in the mobile-first approach
+Welcome to my GitHub profile! I'm a meticulous and versatile professional, armed with a BSc. degree in computer science. My expertise lies in frontend development, product management, blockchain development and technical writing. I firmly believe in adopting a mobile-first approach to deliver exceptional user experiences.
 
-I enjoy learning new things and using them to create new ideas. When am not coding you can find me listening to music, reading, writing, Hanging out with friends & family.
+I have a passion for continuous learning and leveraging new technologies to fuel my creativity. During my leisure time, you'll often find me immersed in music, engaging in captivating reads, honing my writing skills, or enjoying quality time with my cherished friends and family.
 
-- 🌱 I’m currently working with Vue.js, Nuxtjs, also learning React & Solidity
+Here's a glimpse into my current endeavors:
+
+🌱 Presently, I'm actively working with Vue.js and Nuxt.js, while also expanding my knowledge in React and Solidity.
+Additionally, I contribute my skills as a technical product manager, fostering the successful development and launch of cutting-edge products.
+Feel free to explore my repositories and connect with me. Let's collaborate and build amazing things together!
 
 <!-- 
 
@@ -21,6 +25,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+I am a meticulous web developer with BSc. degree in computer science and skills in frontend development, product management & technical writing. I am a firm believer in the mobile-first approach
+
+I enjoy learning new things and using them to create new ideas. At my free time you can find me listening to music, reading, writing, Hanging out with friends & family.
+
+- 🌱 I’m currently working with Vue.js, Nuxtjs, also learning React & Solidity
+- I also work as a technical product manager
 -->
 
 
