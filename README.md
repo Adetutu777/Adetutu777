@@ -1,7 +1,7 @@
 
 # Hello, I am Adetutu 👋
 
-Welcome to my GitHub profile! I'm a meticulous and versatile professional, armed with a BSc. degree in computer science. My expertise lies in frontend development, product management, blockchain development and technical writing. I firmly believe in adopting a mobile-first approach to deliver exceptional user experiences.
+Welcome to my GitHub profile! I'm a meticulous and versatile professional, armed with a BSc. degree in computer science. My expertise lies in product management, frontend development, blockchain development and technical writing. I firmly believe in adopting a mobile-first approach to deliver exceptional user experiences.
 
 I have a passion for continuous learning and leveraging new technologies to fuel my creativity. During my leisure time, you'll often find me immersed in music, engaging in captivating reads, honing my writing skills, or enjoying quality time with my cherished friends and family.
 
