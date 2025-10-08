@@ -21,21 +21,8 @@ While I’m not currently pushing code regularly, I maintain this space as a **l
 
 ## 👯 Technologies & Product Stack
 
-**🛠️ Technical Foundation:**  
-[![Git Badge](https://img.shields.io/badge/Git-20232A?style=for-the-badge&logo=Git&logoColor=61DAFB)](#) 
-<img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-<img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
-<img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-<img alt="Vue.js" src="https://img.shields.io/badge/vue-Vue.js-yellowgreen.svg?"/>
-<img alt="TailwindCSS" src="https://img.shields.io/badge/tailwind css-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-  <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-<img alt="Github" src="https://img.shields.io/badge/github-%23000000.svg?style=for-the-badge&logo=github&logoColor=white"/>
-<img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
-<img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual Studio Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-[![npm Badge](https://img.shields.io/badge/npm-20232A?style=for-the-badge&logo=npm&logoColor=61DAFB)](#) 
- <hr>
-
-**🧩 Product & Collaboration Tools:**  
+ ### 🧩 Product & Collaboration Tools: ###
+ [](#) 
 <img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC.svg?style=for-the-badge&logo=jira&logoColor=white"/>
 <img alt="Confluence" src="https://img.shields.io/badge/Confluence-172B4D.svg?style=for-the-badge&logo=confluence&logoColor=white"/>
 <img alt="Azure DevOps" src="https://img.shields.io/badge/Azure%20DevOps-0078D7.svg?style=for-the-badge&logo=azure-devops&logoColor=white"/>
@@ -47,13 +34,29 @@ While I’m not currently pushing code regularly, I maintain this space as a **l
 <img alt="Microsoft Teams" src="https://img.shields.io/badge/Microsoft%20Teams-6264A7.svg?style=for-the-badge&logo=microsoft-teams&logoColor=white"/>
 <hr>
 
-**📊 Analytics & Customer Success:**  
+### 📊 Analytics & Customer Success:
+[](#) 
 <img alt="Mixpanel" src="https://img.shields.io/badge/Mixpanel-7856FF.svg?style=for-the-badge&logo=mixpanel&logoColor=white"/>
 <img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black"/>
 <img alt="Google Analytics" src="https://img.shields.io/badge/Google%20Analytics-E37400.svg?style=for-the-badge&logo=google-analytics&logoColor=white"/>
 <img alt="Customer Success" src="https://img.shields.io/badge/Customer%20Success-1E90FF.svg?style=for-the-badge&logo=target&logoColor=white"/>
 <img alt="Data Analysis" src="https://img.shields.io/badge/Data%20Analysis-4285F4.svg?style=for-the-badge&logo=google-analytics&logoColor=white"/>
 <img alt="Technical Documentation" src="https://img.shields.io/badge/Documentation-2D9CDB.svg?style=for-the-badge&logo=read-the-docs&logoColor=white"/>
+<hr>
+
+### 🛠️ Technical Foundation: ###
+[![Git Badge](https://img.shields.io/badge/Git-20232A?style=for-the-badge&logo=Git&logoColor=61DAFB)](#) 
+<img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+<img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+<img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+<img alt="Vue.js" src="https://img.shields.io/badge/vue-Vue.js-yellowgreen.svg?"/>
+<img alt="TailwindCSS" src="https://img.shields.io/badge/tailwind css-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+<img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+<img alt="Github" src="https://img.shields.io/badge/github-%23000000.svg?style=for-the-badge&logo=github&logoColor=white"/>
+<img alt="Figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
+<img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual Studio Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+[![npm Badge](https://img.shields.io/badge/npm-20232A?style=for-the-badge&logo=npm&logoColor=61DAFB)](#) 
+
 
 <h2><a id="user-content-about-me" class="anchor" aria-hidden="true" href="#about-me"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"></a>📫 Connect with me::</h2>
   
